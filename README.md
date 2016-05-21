@@ -9,6 +9,7 @@ Let's imagine a scenario like this: There is a person who wants to switch power 
 As we all know, Windows 10 is very nice and convenient.
 
 That's why you only have to click at least 4 times to get to a place where you can switch power plans:
+
 1. Click the battery
 9. Click power and sleep settings
 11. Click "additional power settings"
@@ -17,6 +18,7 @@ That's why you only have to click at least 4 times to get to a place where you c
 1000. (Optional) Close the settings window
 
 PwrSwitch simplifies that to 2: (a reduction of 2, also why PowerSwitch is missing 2 letters)
+
 0. Click PwrSwitch
 0. Click the plan you want
 
