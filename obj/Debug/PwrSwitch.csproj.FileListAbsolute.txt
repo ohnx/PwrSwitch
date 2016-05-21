@@ -1,0 +1,6 @@
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\bin\Debug\PwrSwitch.exe.config
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\bin\Debug\PwrSwitch.exe
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\bin\Debug\PwrSwitch.pdb
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\obj\Debug\PwrSwitch.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\obj\Debug\PwrSwitch.exe
+C:\Users\Mason\Documents\Visual Studio 2015\Projects\PwrSwitch\obj\Debug\PwrSwitch.pdb
